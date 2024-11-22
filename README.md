@@ -1,12 +1,12 @@
 # Hi, I'm Haseeb! 👋  
 ## AI/ML Engineer, Data Engineer
 
-I am a passionate **AI/ML Engineer** with over 4 years of experience working with data, developing cutting-edge solutions, and solving real-world problems. My expertise lies in **Generative AI**, **Time Series Forecasting**, and **Database Management**.  
+I am a passionate **AI/ML Engineer** with over 4 years of experience working with data, developing cutting-edge solutions, and solving real-world problems. My expertise lies in **Machine Learning**, **Deep Learning**, **Time Series Forecasting**, **Generative-AI with LLM and RAG's**  and **Database Design and Development**.  
 
 ## 🌟 AI/ML & Gen-AI Projects  
-- **AI/ML Engineering:** Developed and deployed **LLM Chatbots** with frameworks like Hugging Face, Groq, and OLLAMA. Enhanced chatbot accuracy using **Retrieval-Augmented Generation (RAG)** with LangChain and LangGraph.  
-- **Predictive Analytics:** Built quantitative forecasting models using **Transformer**, **NBEATS**, and **Temporal Fusion Transformers (TFT)** integrated with **Power BI** dashboards.  
-- **Database Management:** Over 3 years of experience as a Database Administrator, ensuring the integrity and efficiency of critical data systems.  
+- **Gen-AI and LLM's":** Developed and deployed **LLM Chatbots** with frameworks like Hugging Face, Groq, and OLLAMA. Enhanced chatbot accuracy using **Retrieval-Augmented Generation (RAG)** with LangChain and LangGraph.  
+- **AI/ML & DL Based Analytics Engineering:** Built quantitative forecasting models using **Transformer**, **NBEATS**, and **Temporal Fusion Transformers (TFT)** integrated with **Power BI** dashboards.  
+- **Database Development:** Over 3 years of experience as a Database Developer, ensuring the integrity and efficiency of critical data systems.  
 
 ## 🔧 Tech Stack  
 - **Programming Languages:** Python, SQL  
@@ -15,7 +15,7 @@ I am a passionate **AI/ML Engineer** with over 4 years of experience working wit
 - **Databases:** Oracle, PostgreSQL  
 
 ## 🚀 Certifications  
-Certified in **Artificial Intelligence**, **Data Analytics**, and **Business Intelligence** from renowned platforms like Google, Coursera, and Great Learning.  
+Certified in **Artificial Intelligence**, **Data Analytics**, and **Business Intelligence** from renowned platforms from Google.  
 
 
 Feel free to explore my repositories for projects showcasing my work in **AI**, **Data Science**, and **Database Engineering**!  
