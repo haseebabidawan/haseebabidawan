@@ -1,5 +1,5 @@
 # Hi, I'm Haseeb! 👋  
-## AI/ML Engineer, Data Scientist, Data Engineer
+## AI/ML Engineer, Data Engineer
 
 I am a passionate **AI/ML Engineer** with over 4 years of experience working with data, developing cutting-edge solutions, and solving real-world problems. My expertise lies in **Generative AI**, **Time Series Forecasting**, and **Database Management**.  
 
